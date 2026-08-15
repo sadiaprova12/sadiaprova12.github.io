@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 <h1>About Me</h1>
-<p>Hi, I am a PhD student in Computer Science at the University of Virginia (UVA), advised by <a href="https://matthewbdwyer.github.io/"> Prof. Matthew B. Dwyer</a>. I am a member of the <a href="https://less-lab-uva.github.io/">LESS Lab</a> research group. My research lies at the intersection of software engineering and generative AI, with a focus on leveraging Large Language Models (LLMs) to enhance the testing, evaluation, and reasoning capabilities of software systems.</p>
+<p>Hi, I am a Master student in Computer Science at the American International University of Bangladesh (AIUB), advised by <a href="https://matthewbdwyer.github.io/"> Prof. Matthew B. Dwyer</a>. I am a member of the <a href="https://less-lab-uva.github.io/">LESS Lab</a> research group. My research lies at the intersection of software engineering and generative AI, with a focus on leveraging Large Language Models (LLMs) to enhance the testing, evaluation, and reasoning capabilities of software systems.</p>
 <p>I earned my B.Sc. in Computer Science and Engineering from Bangladesh University of Engineering and Technology (BUET) in May 2023. Before starting my PhD, I worked as a lecturer of Computer Science and Engineering at BRAC University, Dhaka. </p>
 <p>I am always up for collaborations and exciting chats about new ideas, especially the half-baked ones 🤓 ! Feel free to email me if you’d like to connect! </p>
 
