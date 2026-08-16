@@ -49,6 +49,9 @@ redirect_from:
 <span id="publications"></span>
 # Publications
 
+<span id="projects"></span>
+# Projects
+
 
 
 
