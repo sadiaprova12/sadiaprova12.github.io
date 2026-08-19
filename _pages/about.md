@@ -35,15 +35,10 @@ redirect_from:
 <span id="experience"></span>
 # Work Experience
 
-<!-- - **Graduate Research Assistant** *(Aug 2024 – Present)*  
-  LESS Lab, University of Virginia  
-  Advisor: <a href="https://matthewbdwyer.github.io/">Prof. Matthew B. Dwyer</a>
+- **Intern Officer** *(June 2025 – Sept 2025)*  
+  Brain Station 23 PLC, Dhaka, Bangladesh.  
+  <!-- Website: <a href="https://matthewbdwyer.github.io/">Prof. Matthew B. Dwyer</a> -->
 
-- **Lecturer (On Leave)** *(Jun 2023 – Present)*  
-  Department of Computer Science and Engineering, BRAC University
-
-- **Remote Research Collaborator** *(Jun 2023 – Dec 2023)*  
-  Security and Software Engineering (S2E) Lab, University of Notre Dame, Indiana -->
 
 
 <span id="publications"></span>
