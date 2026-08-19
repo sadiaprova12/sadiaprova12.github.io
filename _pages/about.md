@@ -7,8 +7,8 @@ redirect_from:
 ---
 <h1>About Me</h1>
 <p>Hi, I am a Master student in Computer Science at the American International University of Bangladesh (AIUB). My research lies at the intersection of software engineering and generative AI, with a focus on leveraging Large Language Models (LLMs) to enhance the testing, evaluation, and reasoning capabilities of software systems.</p>
-<p>I earned my B.Sc. in Computer Science and Engineering from Uttara University(UU) in April 2025.</p>
-<p>I am always up for collaborations and exciting chats about new ideas, especially the half-baked ones 🤓 ! Feel free to email me if you’d like to connect! </p>
+<p>I earned my B.Sc. in Computer Science and Engineering from Uttara University (UU) in April 2025.</p>
+<p>I am always available for collaboration and chat about new ideas! Feel free to reach out via email.</p>
 
 <h1>News</h1>
 
