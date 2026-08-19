@@ -50,18 +50,17 @@ redirect_from:
 
 <span id="award"></span>
 # Honors & Awards
-<!-- - Served in the Artifact Evaluation Program Committee for **ASE 2026**.
-- Received Travel Grant to attend **CRA-WP Grad Cohort 2026**.
-- Won **Best Poster – Faculty Choice** and **Best Poster – Audience Choice** at the UVA Research Symposium 2025.
-- Received the **UVA Provost’s Fellowship** (additional \$5,000/year PhD support + \$7,500 one-time research award).
-- Received **Dean’s List** and **University Merit Scholarship** from the Department of CSE, BUET. -->
+- Received Dean Awards for maintaining the CGPA.
+- Participated in several inter-university and national programming contests.
+- Participated in Capture the Flag**(CTF)** and secured 28th position among 98 teams.
+
 
 
 <span id="services"></span>
 # Services
 
-<!-- - Leadership Chair, Computer Science Graduate Student Group (CSGSG), 2026
-- General Secretary, Association of Bangladeshi Students at UVA (ABS@UVA), 2025–2026 Committee -->
+- General Secretary of Uttara University Programming Club.
+- BASIS Student's Forum Executive Members.
 
 
 <span id="skills"></span>
